@@ -34,7 +34,7 @@ msgstr "אישור גישה ללוח־הגזירים"
 #: src/apprt/gtk/ui/1.0/clipboard-confirmation-dialog.blp:17
 #: src/apprt/gtk/ui/1.4/clipboard-confirmation-dialog.blp:17
 msgid "Deny"
-msgstr "איסור"
+msgstr "דחייה"
 
 #: src/apprt/gtk/ui/1.0/clipboard-confirmation-dialog.blp:18
 #: src/apprt/gtk/ui/1.4/clipboard-confirmation-dialog.blp:18
@@ -47,7 +47,7 @@ msgstr "זכרו בחירתי לפיצול זה"
 
 #: src/apprt/gtk/ui/1.4/clipboard-confirmation-dialog.blp:93
 msgid "Reload configuration to show this prompt again"
-msgstr "טענו הגדרות חדשות על־מנת להציג שוב בקשה זו"
+msgstr "טענו מחדש את ההגדרות על מנת להציג בקשה זו שוב"
 
 #: src/apprt/gtk/ui/1.2/close-confirmation-dialog.blp:7
 #: src/apprt/gtk/ui/1.5/title-dialog.blp:8
@@ -68,7 +68,7 @@ msgstr "שגיאות הגדרה"
 msgid ""
 "One or more configuration errors were found. Please review the errors below, "
 "and either reload your configuration or ignore these errors."
-msgstr "נמצאו שגיאות הגדרה (לפחות אחת). אנא סקרונן כפי שמוצגות מטה, וטענו הגדרות חדשות או התעלמו מהן."
+msgstr "נמצאו שגיאות הגדרה (לפחות אחת). אנא עברו עליהן כפי שמוצגות מטה, וטענו הגדרות חדשות או התעלמו מהן."
 
 #: src/apprt/gtk/ui/1.2/config-errors-dialog.blp:10
 msgid "Ignore"
@@ -91,7 +91,7 @@ msgstr "Ghostty: סוקר המסוף"
 
 #: src/apprt/gtk/ui/1.2/search-overlay.blp:29
 msgid "Find…"
-msgstr "חפשו…"
+msgstr "חיפוש…"
 
 #: src/apprt/gtk/ui/1.2/search-overlay.blp:64
 msgid "Previous Match"
@@ -103,7 +103,7 @@ msgstr "תוצאה הבאה"
 
 #: src/apprt/gtk/ui/1.2/surface.blp:6
 msgid "Oh, no."
-msgstr "אוי וֵי!"
+msgstr "אוי, לא."
 
 #: src/apprt/gtk/ui/1.2/surface.blp:7
 msgid "Unable to acquire an OpenGL context for rendering."
@@ -212,7 +212,7 @@ msgstr "ערך ריק ישחזר את כותרת ברירת־המחדל."
 
 #: src/apprt/gtk/ui/1.5/title-dialog.blp:9
 msgid "OK"
-msgstr "סבבה"
+msgstr "אוקיי"
 
 #: src/apprt/gtk/ui/1.5/window.blp:58 src/apprt/gtk/ui/1.5/window.blp:108
 msgid "New Split"
@@ -236,7 +236,7 @@ msgstr "סוקר המסוף"
 
 #: src/apprt/gtk/ui/1.5/window.blp:307 src/apprt/gtk/class/window.zig:1727
 msgid "About Ghostty"
-msgstr "על־אודות Ghostty"
+msgstr "על אודות Ghostty"
 
 #: src/apprt/gtk/ui/1.5/window.blp:312
 msgid "Quit"
@@ -298,7 +298,7 @@ msgstr "כל פעולות המסוף בחלון זה יופסקו."
 
 #: src/apprt/gtk/class/close_confirmation_dialog.zig:196
 msgid "The currently running process in this split will be terminated."
-msgstr "התהליך הרץ בפיצול יופסק."
+msgstr "התהליך הרץ בפיצול זה יופסק."
 
 #: src/apprt/gtk/class/surface.zig:1108
 msgid "Command Finished"
