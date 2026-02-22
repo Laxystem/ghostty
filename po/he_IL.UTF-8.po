@@ -107,7 +107,7 @@ msgstr "אוי, לא."
 
 #: src/apprt/gtk/ui/1.2/surface.blp:7
 msgid "Unable to acquire an OpenGL context for rendering."
-msgstr "השגת הקשר ה־OpenGL (בלעז, \"OpenGL context\") הדרוש לרנדור המסוף נכשלה."
+msgstr "השגת הקשר ה־OpenGL הדרוש לרנדור המסוף נכשלה."
 
 #: src/apprt/gtk/ui/1.2/surface.blp:97
 msgid ""
